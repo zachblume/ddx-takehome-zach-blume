@@ -1,0 +1,1606 @@
+[
+    {
+        "Colorado": {
+            "Adams": {
+                "Republican Party": {
+                    "Bill Weld": 1235,
+                    "Joe Walsh": 814,
+                    "Robert Ardini": 209,
+                    "Donald J. Trump": 39107,
+                    "Zoltan G. Istvan": 181,
+                    "Matthew John Matern": 488
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 204,
+                    "Andrew Yang": 319,
+                    "Cory Booker": 92,
+                    "Robby Wells": 30,
+                    "Deval Patrick": 25,
+                    "Tulsi Gabbard": 690,
+                    "Bernie Sanders": 28300,
+                    "Joseph R. Biden": 14998,
+                    "Rita Krichevsky": 40,
+                    "Elizabeth Warren": 8760,
+                    "Marianne Williamson": 82,
+                    "Michael R. Bloomberg": 12517,
+                    "Roque Rocky De La Fuente III": 96
+                }
+            },
+            "Alamosa": {
+                "Republican Party": {
+                    "Bill Weld": 47,
+                    "Joe Walsh": 42,
+                    "Robert Ardini": 10,
+                    "Donald J. Trump": 1780,
+                    "Zoltan G. Istvan": 2,
+                    "Matthew John Matern": 24
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 21,
+                    "Andrew Yang": 8,
+                    "Cory Booker": 2,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 20,
+                    "Bernie Sanders": 934,
+                    "Joseph R. Biden": 481,
+                    "Rita Krichevsky": 3,
+                    "Elizabeth Warren": 328,
+                    "Marianne Williamson": 10,
+                    "Michael R. Bloomberg": 348,
+                    "Roque Rocky De La Fuente III": 11
+                }
+            },
+            "Arapahoe": {
+                "Republican Party": {
+                    "Bill Weld": 2927,
+                    "Joe Walsh": 1461,
+                    "Robert Ardini": 397,
+                    "Donald J. Trump": 56051,
+                    "Zoltan G. Istvan": 377,
+                    "Matthew John Matern": 809
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 324,
+                    "Andrew Yang": 425,
+                    "Cory Booker": 157,
+                    "Robby Wells": 28,
+                    "Deval Patrick": 24,
+                    "Tulsi Gabbard": 1008,
+                    "Bernie Sanders": 37902,
+                    "Joseph R. Biden": 27219,
+                    "Rita Krichevsky": 41,
+                    "Elizabeth Warren": 16412,
+                    "Marianne Williamson": 116,
+                    "Michael R. Bloomberg": 21591,
+                    "Roque Rocky De La Fuente III": 96
+                }
+            },
+            "Archuleta": {
+                "Republican Party": {
+                    "Bill Weld": 82,
+                    "Joe Walsh": 47,
+                    "Robert Ardini": 11,
+                    "Donald J. Trump": 2526,
+                    "Zoltan G. Istvan": 7,
+                    "Matthew John Matern": 39
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 14,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 4,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 23,
+                    "Bernie Sanders": 662,
+                    "Joseph R. Biden": 465,
+                    "Rita Krichevsky": 4,
+                    "Elizabeth Warren": 333,
+                    "Marianne Williamson": 7,
+                    "Michael R. Bloomberg": 373,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Boulder": {
+                "Republican Party": {
+                    "Bill Weld": 1647,
+                    "Joe Walsh": 618,
+                    "Robert Ardini": 186,
+                    "Donald J. Trump": 18551,
+                    "Zoltan G. Istvan": 183,
+                    "Matthew John Matern": 333
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 227,
+                    "Andrew Yang": 302,
+                    "Cory Booker": 76,
+                    "Robby Wells": 19,
+                    "Deval Patrick": 10,
+                    "Tulsi Gabbard": 777,
+                    "Bernie Sanders": 37563,
+                    "Joseph R. Biden": 22924,
+                    "Rita Krichevsky": 16,
+                    "Elizabeth Warren": 22706,
+                    "Marianne Williamson": 84,
+                    "Michael R. Bloomberg": 15138,
+                    "Roque Rocky De La Fuente III": 51
+                }
+            },
+            "Broomfield": {
+                "Republican Party": {
+                    "Bill Weld": 439,
+                    "Joe Walsh": 200,
+                    "Robert Ardini": 51,
+                    "Donald J. Trump": 7371,
+                    "Zoltan G. Istvan": 41,
+                    "Matthew John Matern": 123
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 48,
+                    "Andrew Yang": 74,
+                    "Cory Booker": 5,
+                    "Robby Wells": 3,
+                    "Deval Patrick": 4,
+                    "Tulsi Gabbard": 187,
+                    "Bernie Sanders": 5547,
+                    "Joseph R. Biden": 4152,
+                    "Rita Krichevsky": 5,
+                    "Elizabeth Warren": 3029,
+                    "Marianne Williamson": 4,
+                    "Michael R. Bloomberg": 2988,
+                    "Roque Rocky De La Fuente III": 4
+                }
+            },
+            "Chaffee": {
+                "Republican Party": {
+                    "Bill Weld": 123,
+                    "Joe Walsh": 69,
+                    "Robert Ardini": 20,
+                    "Donald J. Trump": 3364,
+                    "Zoltan G. Istvan": 14,
+                    "Matthew John Matern": 45
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 13,
+                    "Andrew Yang": 20,
+                    "Cory Booker": 1,
+                    "Robby Wells": 4,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 48,
+                    "Bernie Sanders": 1505,
+                    "Joseph R. Biden": 1046,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 768,
+                    "Marianne Williamson": 7,
+                    "Michael R. Bloomberg": 794,
+                    "Roque Rocky De La Fuente III": 4
+                }
+            },
+            "Clear Creek": {
+                "Republican Party": {
+                    "Bill Weld": 63,
+                    "Joe Walsh": 32,
+                    "Robert Ardini": 8,
+                    "Donald J. Trump": 1229,
+                    "Zoltan G. Istvan": 6,
+                    "Matthew John Matern": 15
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 8,
+                    "Andrew Yang": 11,
+                    "Cory Booker": 1,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 28,
+                    "Bernie Sanders": 728,
+                    "Joseph R. Biden": 483,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 328,
+                    "Marianne Williamson": 6,
+                    "Michael R. Bloomberg": 380,
+                    "Roque Rocky De La Fuente III": 1
+                }
+            },
+            "Custer": {
+                "Republican Party": {
+                    "Bill Weld": 61,
+                    "Joe Walsh": 32,
+                    "Robert Ardini": 4,
+                    "Donald J. Trump": 1506,
+                    "Zoltan G. Istvan": 4,
+                    "Matthew John Matern": 8
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 4,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 2,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 9,
+                    "Bernie Sanders": 136,
+                    "Joseph R. Biden": 154,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 110,
+                    "Marianne Williamson": 1,
+                    "Michael R. Bloomberg": 111,
+                    "Roque Rocky De La Fuente III": 1
+                }
+            },
+            "Delta": {
+                "Republican Party": {
+                    "Bill Weld": 127,
+                    "Joe Walsh": 91,
+                    "Robert Ardini": 19,
+                    "Donald J. Trump": 7198,
+                    "Zoltan G. Istvan": 17,
+                    "Matthew John Matern": 44
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 28,
+                    "Andrew Yang": 13,
+                    "Cory Booker": 8,
+                    "Robby Wells": 4,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 48,
+                    "Bernie Sanders": 1362,
+                    "Joseph R. Biden": 783,
+                    "Rita Krichevsky": 5,
+                    "Elizabeth Warren": 525,
+                    "Marianne Williamson": 19,
+                    "Michael R. Bloomberg": 651,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Denver": {
+                "Republican Party": {
+                    "Bill Weld": 2329,
+                    "Joe Walsh": 944,
+                    "Robert Ardini": 279,
+                    "Donald J. Trump": 25640,
+                    "Zoltan G. Istvan": 337,
+                    "Matthew John Matern": 530
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 351,
+                    "Andrew Yang": 536,
+                    "Cory Booker": 206,
+                    "Robby Wells": 21,
+                    "Deval Patrick": 26,
+                    "Tulsi Gabbard": 1027,
+                    "Bernie Sanders": 69727,
+                    "Joseph R. Biden": 40881,
+                    "Rita Krichevsky": 41,
+                    "Elizabeth Warren": 37176,
+                    "Marianne Williamson": 114,
+                    "Michael R. Bloomberg": 29216,
+                    "Roque Rocky De La Fuente III": 101
+                }
+            },
+            "Douglas": {
+                "Republican Party": {
+                    "Bill Weld": 2300,
+                    "Joe Walsh": 951,
+                    "Robert Ardini": 277,
+                    "Donald J. Trump": 54263,
+                    "Zoltan G. Istvan": 253,
+                    "Matthew John Matern": 556
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 144,
+                    "Andrew Yang": 215,
+                    "Cory Booker": 53,
+                    "Robby Wells": 10,
+                    "Deval Patrick": 9,
+                    "Tulsi Gabbard": 620,
+                    "Bernie Sanders": 14109,
+                    "Joseph R. Biden": 14725,
+                    "Rita Krichevsky": 18,
+                    "Elizabeth Warren": 7388,
+                    "Marianne Williamson": 45,
+                    "Michael R. Bloomberg": 11313,
+                    "Roque Rocky De La Fuente III": 52
+                }
+            },
+            "Eagle": {
+                "Republican Party": {
+                    "Bill Weld": 224,
+                    "Joe Walsh": 112,
+                    "Robert Ardini": 12,
+                    "Donald J. Trump": 3687,
+                    "Zoltan G. Istvan": 26,
+                    "Matthew John Matern": 32
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 32,
+                    "Andrew Yang": 22,
+                    "Cory Booker": 7,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 3,
+                    "Tulsi Gabbard": 89,
+                    "Bernie Sanders": 3031,
+                    "Joseph R. Biden": 2476,
+                    "Rita Krichevsky": 5,
+                    "Elizabeth Warren": 1279,
+                    "Marianne Williamson": 11,
+                    "Michael R. Bloomberg": 2326,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "El Paso": {
+                "Republican Party": {
+                    "Bill Weld": 3352,
+                    "Joe Walsh": 1699,
+                    "Robert Ardini": 484,
+                    "Donald J. Trump": 101825,
+                    "Zoltan G. Istvan": 434,
+                    "Matthew John Matern": 1034
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 361,
+                    "Andrew Yang": 503,
+                    "Cory Booker": 146,
+                    "Robby Wells": 28,
+                    "Deval Patrick": 27,
+                    "Tulsi Gabbard": 1201,
+                    "Bernie Sanders": 28259,
+                    "Joseph R. Biden": 20476,
+                    "Rita Krichevsky": 42,
+                    "Elizabeth Warren": 12292,
+                    "Marianne Williamson": 100,
+                    "Michael R. Bloomberg": 13891,
+                    "Roque Rocky De La Fuente III": 106
+                }
+            },
+            "Elbert": {
+                "Republican Party": {
+                    "Bill Weld": 140,
+                    "Joe Walsh": 80,
+                    "Robert Ardini": 26,
+                    "Donald J. Trump": 7424,
+                    "Zoltan G. Istvan": 24,
+                    "Matthew John Matern": 43
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 11,
+                    "Andrew Yang": 19,
+                    "Cory Booker": 0,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 52,
+                    "Bernie Sanders": 642,
+                    "Joseph R. Biden": 612,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 309,
+                    "Marianne Williamson": 9,
+                    "Michael R. Bloomberg": 557,
+                    "Roque Rocky De La Fuente III": 7
+                }
+            },
+            "Fremont": {
+                "Republican Party": {
+                    "Bill Weld": 142,
+                    "Joe Walsh": 126,
+                    "Robert Ardini": 32,
+                    "Donald J. Trump": 9153,
+                    "Zoltan G. Istvan": 27,
+                    "Matthew John Matern": 64
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 38,
+                    "Andrew Yang": 24,
+                    "Cory Booker": 13,
+                    "Robby Wells": 9,
+                    "Deval Patrick": 3,
+                    "Tulsi Gabbard": 65,
+                    "Bernie Sanders": 1207,
+                    "Joseph R. Biden": 1070,
+                    "Rita Krichevsky": 8,
+                    "Elizabeth Warren": 555,
+                    "Marianne Williamson": 7,
+                    "Michael R. Bloomberg": 1032,
+                    "Roque Rocky De La Fuente III": 10
+                }
+            },
+            "Garfield": {
+                "Republican Party": {
+                    "Bill Weld": 207,
+                    "Joe Walsh": 128,
+                    "Robert Ardini": 30,
+                    "Donald J. Trump": 6827,
+                    "Zoltan G. Istvan": 34,
+                    "Matthew John Matern": 61
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 36,
+                    "Andrew Yang": 38,
+                    "Cory Booker": 7,
+                    "Robby Wells": 4,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 101,
+                    "Bernie Sanders": 3085,
+                    "Joseph R. Biden": 1988,
+                    "Rita Krichevsky": 6,
+                    "Elizabeth Warren": 1336,
+                    "Marianne Williamson": 17,
+                    "Michael R. Bloomberg": 1483,
+                    "Roque Rocky De La Fuente III": 9
+                }
+            },
+            "Grand": {
+                "Republican Party": {
+                    "Bill Weld": 121,
+                    "Joe Walsh": 72,
+                    "Robert Ardini": 16,
+                    "Donald J. Trump": 2464,
+                    "Zoltan G. Istvan": 16,
+                    "Matthew John Matern": 30
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 15,
+                    "Andrew Yang": 9,
+                    "Cory Booker": 5,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 36,
+                    "Bernie Sanders": 859,
+                    "Joseph R. Biden": 551,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 359,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 474,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Gunnison": {
+                "Republican Party": {
+                    "Bill Weld": 80,
+                    "Joe Walsh": 45,
+                    "Robert Ardini": 5,
+                    "Donald J. Trump": 1666,
+                    "Zoltan G. Istvan": 8,
+                    "Matthew John Matern": 19
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 12,
+                    "Andrew Yang": 13,
+                    "Cory Booker": 3,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 36,
+                    "Bernie Sanders": 1877,
+                    "Joseph R. Biden": 722,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 637,
+                    "Marianne Williamson": 3,
+                    "Michael R. Bloomberg": 532,
+                    "Roque Rocky De La Fuente III": 1
+                }
+            },
+            "Jefferson": {
+                "Republican Party": {
+                    "Bill Weld": 3612,
+                    "Joe Walsh": 1835,
+                    "Robert Ardini": 468,
+                    "Donald J. Trump": 69850,
+                    "Zoltan G. Istvan": 494,
+                    "Matthew John Matern": 963
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 415,
+                    "Andrew Yang": 486,
+                    "Cory Booker": 123,
+                    "Robby Wells": 35,
+                    "Deval Patrick": 25,
+                    "Tulsi Gabbard": 1352,
+                    "Bernie Sanders": 42803,
+                    "Joseph R. Biden": 29197,
+                    "Rita Krichevsky": 43,
+                    "Elizabeth Warren": 21361,
+                    "Marianne Williamson": 138,
+                    "Michael R. Bloomberg": 23502,
+                    "Roque Rocky De La Fuente III": 136
+                }
+            },
+            "La Plata": {
+                "Republican Party": {
+                    "Bill Weld": 260,
+                    "Joe Walsh": 147,
+                    "Robert Ardini": 21,
+                    "Donald J. Trump": 6608,
+                    "Zoltan G. Istvan": 37,
+                    "Matthew John Matern": 65
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 63,
+                    "Andrew Yang": 37,
+                    "Cory Booker": 6,
+                    "Robby Wells": 4,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 141,
+                    "Bernie Sanders": 4380,
+                    "Joseph R. Biden": 2658,
+                    "Rita Krichevsky": 7,
+                    "Elizabeth Warren": 2052,
+                    "Marianne Williamson": 21,
+                    "Michael R. Bloomberg": 1577,
+                    "Roque Rocky De La Fuente III": 16
+                }
+            },
+            "Larimer": {
+                "Republican Party": {
+                    "Bill Weld": 2214,
+                    "Joe Walsh": 967,
+                    "Robert Ardini": 249,
+                    "Donald J. Trump": 41351,
+                    "Zoltan G. Istvan": 239,
+                    "Matthew John Matern": 555
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 214,
+                    "Andrew Yang": 257,
+                    "Cory Booker": 68,
+                    "Robby Wells": 24,
+                    "Deval Patrick": 8,
+                    "Tulsi Gabbard": 742,
+                    "Bernie Sanders": 26661,
+                    "Joseph R. Biden": 15667,
+                    "Rita Krichevsky": 25,
+                    "Elizabeth Warren": 13648,
+                    "Marianne Williamson": 68,
+                    "Michael R. Bloomberg": 10341,
+                    "Roque Rocky De La Fuente III": 56
+                }
+            },
+            "Logan": {
+                "Republican Party": {
+                    "Bill Weld": 76,
+                    "Joe Walsh": 71,
+                    "Robert Ardini": 12,
+                    "Donald J. Trump": 4795,
+                    "Zoltan G. Istvan": 15,
+                    "Matthew John Matern": 27
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 13,
+                    "Andrew Yang": 11,
+                    "Cory Booker": 9,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 23,
+                    "Bernie Sanders": 388,
+                    "Joseph R. Biden": 325,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 155,
+                    "Marianne Williamson": 3,
+                    "Michael R. Bloomberg": 342,
+                    "Roque Rocky De La Fuente III": 10
+                }
+            },
+            "Mesa": {
+                "Republican Party": {
+                    "Bill Weld": 673,
+                    "Joe Walsh": 432,
+                    "Robert Ardini": 113,
+                    "Donald J. Trump": 27382,
+                    "Zoltan G. Istvan": 113,
+                    "Matthew John Matern": 239
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 138,
+                    "Andrew Yang": 109,
+                    "Cory Booker": 42,
+                    "Robby Wells": 9,
+                    "Deval Patrick": 6,
+                    "Tulsi Gabbard": 219,
+                    "Bernie Sanders": 5267,
+                    "Joseph R. Biden": 4520,
+                    "Rita Krichevsky": 19,
+                    "Elizabeth Warren": 2552,
+                    "Marianne Williamson": 41,
+                    "Michael R. Bloomberg": 3115,
+                    "Roque Rocky De La Fuente III": 33
+                }
+            },
+            "Moffat": {
+                "Republican Party": {
+                    "Bill Weld": 39,
+                    "Joe Walsh": 35,
+                    "Robert Ardini": 11,
+                    "Donald J. Trump": 2997,
+                    "Zoltan G. Istvan": 10,
+                    "Matthew John Matern": 26
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 1,
+                    "Andrew Yang": 6,
+                    "Cory Booker": 5,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 12,
+                    "Bernie Sanders": 206,
+                    "Joseph R. Biden": 146,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 84,
+                    "Marianne Williamson": 4,
+                    "Michael R. Bloomberg": 90,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "Montezuma": {
+                "Republican Party": {
+                    "Bill Weld": 109,
+                    "Joe Walsh": 77,
+                    "Robert Ardini": 11,
+                    "Donald J. Trump": 5034,
+                    "Zoltan G. Istvan": 23,
+                    "Matthew John Matern": 46
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 32,
+                    "Andrew Yang": 15,
+                    "Cory Booker": 6,
+                    "Robby Wells": 3,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 43,
+                    "Bernie Sanders": 1234,
+                    "Joseph R. Biden": 705,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 467,
+                    "Marianne Williamson": 10,
+                    "Michael R. Bloomberg": 425,
+                    "Roque Rocky De La Fuente III": 8
+                }
+            },
+            "Montrose": {
+                "Republican Party": {
+                    "Bill Weld": 174,
+                    "Joe Walsh": 117,
+                    "Robert Ardini": 27,
+                    "Donald J. Trump": 9115,
+                    "Zoltan G. Istvan": 17,
+                    "Matthew John Matern": 56
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 39,
+                    "Andrew Yang": 18,
+                    "Cory Booker": 10,
+                    "Robby Wells": 8,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 70,
+                    "Bernie Sanders": 1209,
+                    "Joseph R. Biden": 1169,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 556,
+                    "Marianne Williamson": 4,
+                    "Michael R. Bloomberg": 875,
+                    "Roque Rocky De La Fuente III": 9
+                }
+            },
+            "Morgan": {
+                "Republican Party": {
+                    "Bill Weld": 84,
+                    "Joe Walsh": 82,
+                    "Robert Ardini": 15,
+                    "Donald J. Trump": 4754,
+                    "Zoltan G. Istvan": 11,
+                    "Matthew John Matern": 28
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 9,
+                    "Andrew Yang": 8,
+                    "Cory Booker": 5,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 38,
+                    "Bernie Sanders": 560,
+                    "Joseph R. Biden": 459,
+                    "Rita Krichevsky": 3,
+                    "Elizabeth Warren": 206,
+                    "Marianne Williamson": 3,
+                    "Michael R. Bloomberg": 482,
+                    "Roque Rocky De La Fuente III": 11
+                }
+            },
+            "Otero": {
+                "Republican Party": {
+                    "Bill Weld": 56,
+                    "Joe Walsh": 64,
+                    "Robert Ardini": 12,
+                    "Donald J. Trump": 3105,
+                    "Zoltan G. Istvan": 10,
+                    "Matthew John Matern": 39
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 19,
+                    "Andrew Yang": 16,
+                    "Cory Booker": 6,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 3,
+                    "Tulsi Gabbard": 35,
+                    "Bernie Sanders": 663,
+                    "Joseph R. Biden": 533,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 181,
+                    "Marianne Williamson": 3,
+                    "Michael R. Bloomberg": 525,
+                    "Roque Rocky De La Fuente III": 8
+                }
+            },
+            "Park": {
+                "Republican Party": {
+                    "Bill Weld": 110,
+                    "Joe Walsh": 57,
+                    "Robert Ardini": 12,
+                    "Donald J. Trump": 3493,
+                    "Zoltan G. Istvan": 20,
+                    "Matthew John Matern": 27
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 14,
+                    "Andrew Yang": 10,
+                    "Cory Booker": 0,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 49,
+                    "Bernie Sanders": 1033,
+                    "Joseph R. Biden": 591,
+                    "Rita Krichevsky": 3,
+                    "Elizabeth Warren": 438,
+                    "Marianne Williamson": 5,
+                    "Michael R. Bloomberg": 395,
+                    "Roque Rocky De La Fuente III": 7
+                }
+            },
+            "Pitkin": {
+                "Republican Party": {
+                    "Bill Weld": 71,
+                    "Joe Walsh": 33,
+                    "Robert Ardini": 3,
+                    "Donald J. Trump": 872,
+                    "Zoltan G. Istvan": 6,
+                    "Matthew John Matern": 16
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 12,
+                    "Andrew Yang": 15,
+                    "Cory Booker": 3,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 29,
+                    "Bernie Sanders": 1480,
+                    "Joseph R. Biden": 1330,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 605,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 1457,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Pueblo": {
+                "Republican Party": {
+                    "Bill Weld": 384,
+                    "Joe Walsh": 344,
+                    "Robert Ardini": 76,
+                    "Donald J. Trump": 18358,
+                    "Zoltan G. Istvan": 73,
+                    "Matthew John Matern": 158
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 140,
+                    "Andrew Yang": 150,
+                    "Cory Booker": 65,
+                    "Robby Wells": 32,
+                    "Deval Patrick": 11,
+                    "Tulsi Gabbard": 305,
+                    "Bernie Sanders": 7802,
+                    "Joseph R. Biden": 7360,
+                    "Rita Krichevsky": 32,
+                    "Elizabeth Warren": 2535,
+                    "Marianne Williamson": 40,
+                    "Michael R. Bloomberg": 6335,
+                    "Roque Rocky De La Fuente III": 120
+                }
+            },
+            "Rio Blanco": {
+                "Republican Party": {
+                    "Bill Weld": 34,
+                    "Joe Walsh": 18,
+                    "Robert Ardini": 4,
+                    "Donald J. Trump": 1986,
+                    "Zoltan G. Istvan": 3,
+                    "Matthew John Matern": 9
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 1,
+                    "Andrew Yang": 0,
+                    "Cory Booker": 0,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 2,
+                    "Bernie Sanders": 81,
+                    "Joseph R. Biden": 73,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 49,
+                    "Marianne Williamson": 1,
+                    "Michael R. Bloomberg": 58,
+                    "Roque Rocky De La Fuente III": 0
+                }
+            },
+            "Rio Grande": {
+                "Republican Party": {
+                    "Bill Weld": 47,
+                    "Joe Walsh": 62,
+                    "Robert Ardini": 7,
+                    "Donald J. Trump": 1944,
+                    "Zoltan G. Istvan": 10,
+                    "Matthew John Matern": 29
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 5,
+                    "Andrew Yang": 4,
+                    "Cory Booker": 9,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 7,
+                    "Bernie Sanders": 479,
+                    "Joseph R. Biden": 291,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 161,
+                    "Marianne Williamson": 3,
+                    "Michael R. Bloomberg": 319,
+                    "Roque Rocky De La Fuente III": 7
+                }
+            },
+            "Routt": {
+                "Republican Party": {
+                    "Bill Weld": 153,
+                    "Joe Walsh": 86,
+                    "Robert Ardini": 10,
+                    "Donald J. Trump": 2411,
+                    "Zoltan G. Istvan": 24,
+                    "Matthew John Matern": 38
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 23,
+                    "Andrew Yang": 13,
+                    "Cory Booker": 7,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 54,
+                    "Bernie Sanders": 1842,
+                    "Joseph R. Biden": 1486,
+                    "Rita Krichevsky": 3,
+                    "Elizabeth Warren": 883,
+                    "Marianne Williamson": 5,
+                    "Michael R. Bloomberg": 1215,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "Summit": {
+                "Republican Party": {
+                    "Bill Weld": 145,
+                    "Joe Walsh": 98,
+                    "Robert Ardini": 11,
+                    "Donald J. Trump": 1915,
+                    "Zoltan G. Istvan": 17,
+                    "Matthew John Matern": 21
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 21,
+                    "Andrew Yang": 13,
+                    "Cory Booker": 4,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 69,
+                    "Bernie Sanders": 2260,
+                    "Joseph R. Biden": 1626,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 954,
+                    "Marianne Williamson": 5,
+                    "Michael R. Bloomberg": 1153,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "Teller": {
+                "Republican Party": {
+                    "Bill Weld": 161,
+                    "Joe Walsh": 60,
+                    "Robert Ardini": 9,
+                    "Donald J. Trump": 5813,
+                    "Zoltan G. Istvan": 13,
+                    "Matthew John Matern": 37
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 18,
+                    "Andrew Yang": 20,
+                    "Cory Booker": 2,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 43,
+                    "Bernie Sanders": 912,
+                    "Joseph R. Biden": 731,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 459,
+                    "Marianne Williamson": 7,
+                    "Michael R. Bloomberg": 471,
+                    "Roque Rocky De La Fuente III": 8
+                }
+            },
+            "Weld": {
+                "Republican Party": {
+                    "Bill Weld": 1193,
+                    "Joe Walsh": 550,
+                    "Robert Ardini": 166,
+                    "Donald J. Trump": 41037,
+                    "Zoltan G. Istvan": 148,
+                    "Matthew John Matern": 366
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 136,
+                    "Andrew Yang": 132,
+                    "Cory Booker": 61,
+                    "Robby Wells": 10,
+                    "Deval Patrick": 13,
+                    "Tulsi Gabbard": 426,
+                    "Bernie Sanders": 11911,
+                    "Joseph R. Biden": 7304,
+                    "Rita Krichevsky": 25,
+                    "Elizabeth Warren": 4308,
+                    "Marianne Williamson": 38,
+                    "Michael R. Bloomberg": 5927,
+                    "Roque Rocky De La Fuente III": 57
+                }
+            },
+            "Dolores": {
+                "Republican Party": {
+                    "Bill Weld": 3,
+                    "Joe Walsh": 5,
+                    "Robert Ardini": 1,
+                    "Donald J. Trump": 638,
+                    "Zoltan G. Istvan": 0,
+                    "Matthew John Matern": 4
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 4,
+                    "Andrew Yang": 0,
+                    "Cory Booker": 0,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 6,
+                    "Bernie Sanders": 75,
+                    "Joseph R. Biden": 41,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 28,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 23,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Baca": {
+                "Republican Party": {
+                    "Bill Weld": 5,
+                    "Joe Walsh": 7,
+                    "Robert Ardini": 2,
+                    "Donald J. Trump": 1137,
+                    "Zoltan G. Istvan": 0,
+                    "Matthew John Matern": 2
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 3,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 7,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 13,
+                    "Bernie Sanders": 60,
+                    "Joseph R. Biden": 71,
+                    "Rita Krichevsky": 3,
+                    "Elizabeth Warren": 31,
+                    "Marianne Williamson": 1,
+                    "Michael R. Bloomberg": 43,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Cheyenne": {
+                "Republican Party": {
+                    "Bill Weld": 5,
+                    "Joe Walsh": 3,
+                    "Robert Ardini": 4,
+                    "Donald J. Trump": 636,
+                    "Zoltan G. Istvan": 3,
+                    "Matthew John Matern": 5
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 3,
+                    "Andrew Yang": 1,
+                    "Cory Booker": 0,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 2,
+                    "Bernie Sanders": 17,
+                    "Joseph R. Biden": 22,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 8,
+                    "Marianne Williamson": 1,
+                    "Michael R. Bloomberg": 28,
+                    "Roque Rocky De La Fuente III": 0
+                }
+            },
+            "Costilla": {
+                "Republican Party": {
+                    "Bill Weld": 7,
+                    "Joe Walsh": 4,
+                    "Robert Ardini": 0,
+                    "Donald J. Trump": 225,
+                    "Zoltan G. Istvan": 3,
+                    "Matthew John Matern": 4
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 7,
+                    "Andrew Yang": 8,
+                    "Cory Booker": 1,
+                    "Robby Wells": 4,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 10,
+                    "Bernie Sanders": 319,
+                    "Joseph R. Biden": 202,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 83,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 158,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "San Juan": {
+                "Republican Party": {
+                    "Bill Weld": 7,
+                    "Joe Walsh": 3,
+                    "Robert Ardini": 2,
+                    "Donald J. Trump": 74,
+                    "Zoltan G. Istvan": 0,
+                    "Matthew John Matern": 0
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 1,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 2,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 4,
+                    "Bernie Sanders": 86,
+                    "Joseph R. Biden": 34,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 38,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 31,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Kiowa": {
+                "Republican Party": {
+                    "Bill Weld": 8,
+                    "Joe Walsh": 6,
+                    "Robert Ardini": 0,
+                    "Donald J. Trump": 514,
+                    "Zoltan G. Istvan": 1,
+                    "Matthew John Matern": 4
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 0,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 0,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 5,
+                    "Bernie Sanders": 16,
+                    "Joseph R. Biden": 23,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 5,
+                    "Marianne Williamson": 1,
+                    "Michael R. Bloomberg": 18,
+                    "Roque Rocky De La Fuente III": 0
+                }
+            },
+            "Mineral": {
+                "Republican Party": {
+                    "Bill Weld": 8,
+                    "Joe Walsh": 5,
+                    "Robert Ardini": 0,
+                    "Donald J. Trump": 235,
+                    "Zoltan G. Istvan": 2,
+                    "Matthew John Matern": 2
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 4,
+                    "Andrew Yang": 0,
+                    "Cory Booker": 0,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 3,
+                    "Bernie Sanders": 60,
+                    "Joseph R. Biden": 48,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 44,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 36,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Jackson": {
+                "Republican Party": {
+                    "Bill Weld": 11,
+                    "Joe Walsh": 13,
+                    "Robert Ardini": 1,
+                    "Donald J. Trump": 454,
+                    "Zoltan G. Istvan": 1,
+                    "Matthew John Matern": 5
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 1,
+                    "Andrew Yang": 1,
+                    "Cory Booker": 0,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 1,
+                    "Bernie Sanders": 26,
+                    "Joseph R. Biden": 32,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 14,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 8,
+                    "Roque Rocky De La Fuente III": 0
+                }
+            },
+            "Phillips": {
+                "Republican Party": {
+                    "Bill Weld": 12,
+                    "Joe Walsh": 22,
+                    "Robert Ardini": 6,
+                    "Donald J. Trump": 1153,
+                    "Zoltan G. Istvan": 2,
+                    "Matthew John Matern": 9
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 3,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 2,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 5,
+                    "Bernie Sanders": 74,
+                    "Joseph R. Biden": 74,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 28,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 74,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "Saguache": {
+                "Republican Party": {
+                    "Bill Weld": 13,
+                    "Joe Walsh": 15,
+                    "Robert Ardini": 0,
+                    "Donald J. Trump": 656,
+                    "Zoltan G. Istvan": 1,
+                    "Matthew John Matern": 6
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 7,
+                    "Andrew Yang": 9,
+                    "Cory Booker": 3,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 13,
+                    "Bernie Sanders": 619,
+                    "Joseph R. Biden": 181,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 172,
+                    "Marianne Williamson": 7,
+                    "Michael R. Bloomberg": 168,
+                    "Roque Rocky De La Fuente III": 6
+                }
+            },
+            "Bent": {
+                "Republican Party": {
+                    "Bill Weld": 15,
+                    "Joe Walsh": 10,
+                    "Robert Ardini": 1,
+                    "Donald J. Trump": 826,
+                    "Zoltan G. Istvan": 0,
+                    "Matthew John Matern": 9
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 9,
+                    "Andrew Yang": 3,
+                    "Cory Booker": 1,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 4,
+                    "Bernie Sanders": 154,
+                    "Joseph R. Biden": 108,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 36,
+                    "Marianne Williamson": 3,
+                    "Michael R. Bloomberg": 128,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Lincoln": {
+                "Republican Party": {
+                    "Bill Weld": 15,
+                    "Joe Walsh": 19,
+                    "Robert Ardini": 2,
+                    "Donald J. Trump": 1320,
+                    "Zoltan G. Istvan": 4,
+                    "Matthew John Matern": 9
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 5,
+                    "Andrew Yang": 4,
+                    "Cory Booker": 1,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 8,
+                    "Bernie Sanders": 82,
+                    "Joseph R. Biden": 60,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 48,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 50,
+                    "Roque Rocky De La Fuente III": 1
+                }
+            },
+            "Sedgwick": {
+                "Republican Party": {
+                    "Bill Weld": 16,
+                    "Joe Walsh": 15,
+                    "Robert Ardini": 1,
+                    "Donald J. Trump": 678,
+                    "Zoltan G. Istvan": 2,
+                    "Matthew John Matern": 9
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 3,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 2,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 6,
+                    "Bernie Sanders": 57,
+                    "Joseph R. Biden": 41,
+                    "Rita Krichevsky": 3,
+                    "Elizabeth Warren": 25,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 40,
+                    "Roque Rocky De La Fuente III": 0
+                }
+            },
+            "Crowley": {
+                "Republican Party": {
+                    "Bill Weld": 18,
+                    "Joe Walsh": 8,
+                    "Robert Ardini": 2,
+                    "Donald J. Trump": 762,
+                    "Zoltan G. Istvan": 1,
+                    "Matthew John Matern": 11
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 3,
+                    "Andrew Yang": 1,
+                    "Cory Booker": 1,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 6,
+                    "Bernie Sanders": 71,
+                    "Joseph R. Biden": 81,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 29,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 78,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Hinsdale": {
+                "Republican Party": {
+                    "Bill Weld": 18,
+                    "Joe Walsh": 6,
+                    "Robert Ardini": 2,
+                    "Donald J. Trump": 212,
+                    "Zoltan G. Istvan": 5,
+                    "Matthew John Matern": 3
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 2,
+                    "Andrew Yang": 0,
+                    "Cory Booker": 0,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 1,
+                    "Bernie Sanders": 36,
+                    "Joseph R. Biden": 25,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 19,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 26,
+                    "Roque Rocky De La Fuente III": 0
+                }
+            },
+            "Lake": {
+                "Republican Party": {
+                    "Bill Weld": 20,
+                    "Joe Walsh": 14,
+                    "Robert Ardini": 3,
+                    "Donald J. Trump": 472,
+                    "Zoltan G. Istvan": 2,
+                    "Matthew John Matern": 4
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 2,
+                    "Andrew Yang": 9,
+                    "Cory Booker": 3,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 23,
+                    "Bernie Sanders": 605,
+                    "Joseph R. Biden": 286,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 222,
+                    "Marianne Williamson": 4,
+                    "Michael R. Bloomberg": 173,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "Prowers": {
+                "Republican Party": {
+                    "Bill Weld": 20,
+                    "Joe Walsh": 29,
+                    "Robert Ardini": 7,
+                    "Donald J. Trump": 2355,
+                    "Zoltan G. Istvan": 8,
+                    "Matthew John Matern": 15
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 4,
+                    "Andrew Yang": 12,
+                    "Cory Booker": 8,
+                    "Robby Wells": 3,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 9,
+                    "Bernie Sanders": 227,
+                    "Joseph R. Biden": 200,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 92,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 188,
+                    "Roque Rocky De La Fuente III": 5
+                }
+            },
+            "Huerfano": {
+                "Republican Party": {
+                    "Bill Weld": 23,
+                    "Joe Walsh": 26,
+                    "Robert Ardini": 5,
+                    "Donald J. Trump": 1125,
+                    "Zoltan G. Istvan": 0,
+                    "Matthew John Matern": 8
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 10,
+                    "Andrew Yang": 6,
+                    "Cory Booker": 7,
+                    "Robby Wells": 3,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 28,
+                    "Bernie Sanders": 484,
+                    "Joseph R. Biden": 311,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 190,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 294,
+                    "Roque Rocky De La Fuente III": 11
+                }
+            },
+            "Yuma": {
+                "Republican Party": {
+                    "Bill Weld": 24,
+                    "Joe Walsh": 25,
+                    "Robert Ardini": 7,
+                    "Donald J. Trump": 2372,
+                    "Zoltan G. Istvan": 5,
+                    "Matthew John Matern": 24
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 6,
+                    "Andrew Yang": 8,
+                    "Cory Booker": 1,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 15,
+                    "Bernie Sanders": 111,
+                    "Joseph R. Biden": 129,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 59,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 140,
+                    "Roque Rocky De La Fuente III": 2
+                }
+            },
+            "Conejos": {
+                "Republican Party": {
+                    "Bill Weld": 26,
+                    "Joe Walsh": 24,
+                    "Robert Ardini": 5,
+                    "Donald J. Trump": 1028,
+                    "Zoltan G. Istvan": 12,
+                    "Matthew John Matern": 11
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 10,
+                    "Andrew Yang": 12,
+                    "Cory Booker": 2,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 18,
+                    "Bernie Sanders": 482,
+                    "Joseph R. Biden": 388,
+                    "Rita Krichevsky": 4,
+                    "Elizabeth Warren": 81,
+                    "Marianne Williamson": 3,
+                    "Michael R. Bloomberg": 278,
+                    "Roque Rocky De La Fuente III": 5
+                }
+            },
+            "Gilpin": {
+                "Republican Party": {
+                    "Bill Weld": 27,
+                    "Joe Walsh": 12,
+                    "Robert Ardini": 6,
+                    "Donald J. Trump": 742,
+                    "Zoltan G. Istvan": 4,
+                    "Matthew John Matern": 5
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 1,
+                    "Andrew Yang": 7,
+                    "Cory Booker": 2,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 19,
+                    "Bernie Sanders": 603,
+                    "Joseph R. Biden": 233,
+                    "Rita Krichevsky": 2,
+                    "Elizabeth Warren": 241,
+                    "Marianne Williamson": 1,
+                    "Michael R. Bloomberg": 185,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "Kit Carson": {
+                "Republican Party": {
+                    "Bill Weld": 27,
+                    "Joe Walsh": 22,
+                    "Robert Ardini": 1,
+                    "Donald J. Trump": 1973,
+                    "Zoltan G. Istvan": 6,
+                    "Matthew John Matern": 16
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 2,
+                    "Andrew Yang": 4,
+                    "Cory Booker": 0,
+                    "Robby Wells": 3,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 6,
+                    "Bernie Sanders": 109,
+                    "Joseph R. Biden": 95,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 36,
+                    "Marianne Williamson": 0,
+                    "Michael R. Bloomberg": 107,
+                    "Roque Rocky De La Fuente III": 3
+                }
+            },
+            "Las Animas": {
+                "Republican Party": {
+                    "Bill Weld": 28,
+                    "Joe Walsh": 30,
+                    "Robert Ardini": 6,
+                    "Donald J. Trump": 1886,
+                    "Zoltan G. Istvan": 3,
+                    "Matthew John Matern": 11
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 11,
+                    "Andrew Yang": 5,
+                    "Cory Booker": 10,
+                    "Robby Wells": 2,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 59,
+                    "Bernie Sanders": 696,
+                    "Joseph R. Biden": 647,
+                    "Rita Krichevsky": 8,
+                    "Elizabeth Warren": 232,
+                    "Marianne Williamson": 5,
+                    "Michael R. Bloomberg": 539,
+                    "Roque Rocky De La Fuente III": 18
+                }
+            },
+            "San Miguel": {
+                "Republican Party": {
+                    "Bill Weld": 29,
+                    "Joe Walsh": 14,
+                    "Robert Ardini": 2,
+                    "Donald J. Trump": 456,
+                    "Zoltan G. Istvan": 2,
+                    "Matthew John Matern": 5
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 7,
+                    "Andrew Yang": 8,
+                    "Cory Booker": 1,
+                    "Robby Wells": 1,
+                    "Deval Patrick": 2,
+                    "Tulsi Gabbard": 25,
+                    "Bernie Sanders": 1039,
+                    "Joseph R. Biden": 462,
+                    "Rita Krichevsky": 1,
+                    "Elizabeth Warren": 362,
+                    "Marianne Williamson": 1,
+                    "Michael R. Bloomberg": 356,
+                    "Roque Rocky De La Fuente III": 4
+                }
+            },
+            "Washington": {
+                "Republican Party": {
+                    "Bill Weld": 29,
+                    "Joe Walsh": 20,
+                    "Robert Ardini": 6,
+                    "Donald J. Trump": 1641,
+                    "Zoltan G. Istvan": 4,
+                    "Matthew John Matern": 6
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 1,
+                    "Andrew Yang": 2,
+                    "Cory Booker": 0,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 0,
+                    "Tulsi Gabbard": 5,
+                    "Bernie Sanders": 66,
+                    "Joseph R. Biden": 39,
+                    "Rita Krichevsky": 3,
+                    "Elizabeth Warren": 28,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 40,
+                    "Roque Rocky De La Fuente III": 0
+                }
+            },
+            "Ouray": {
+                "Republican Party": {
+                    "Bill Weld": 43,
+                    "Joe Walsh": 17,
+                    "Robert Ardini": 3,
+                    "Donald J. Trump": 854,
+                    "Zoltan G. Istvan": 5,
+                    "Matthew John Matern": 10
+                },
+                "Democratic Party": {
+                    "Tom Steyer": 10,
+                    "Andrew Yang": 3,
+                    "Cory Booker": 3,
+                    "Robby Wells": 0,
+                    "Deval Patrick": 1,
+                    "Tulsi Gabbard": 19,
+                    "Bernie Sanders": 513,
+                    "Joseph R. Biden": 355,
+                    "Rita Krichevsky": 0,
+                    "Elizabeth Warren": 260,
+                    "Marianne Williamson": 2,
+                    "Michael R. Bloomberg": 199,
+                    "Roque Rocky De La Fuente III": 1
+                }
+            }
+        }
+    }
+]
