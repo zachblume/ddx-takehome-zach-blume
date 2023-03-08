@@ -13,7 +13,10 @@ import unNest from "@/lib/unNest";
 
 export async function GET(request) {
     // Make fetch() work in a dev or prod enviro correctly
-    const baseURL = process.env.NEXT_PUBLIC_VERCEL_URL;
+    const baseURL =
+        process.env.NEXT_PUBLIC_VERCEL_URL == "http://localhost:3000/"
+            ? "http://localhost:3000/"
+            : "https://demx.vercel.app/";
 
     // Load /public/example.json into object
     let db = await (await fetch(baseURL + "example.json")).json();
