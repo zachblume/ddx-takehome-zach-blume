@@ -20,7 +20,7 @@ export default function Home({ searchParams }) {
         process.env.NEXT_PUBLIC_VERCEL_URL == "http://localhost:3000/"
             ? "http://localhost:3000/"
             : "https://demx.vercel.app/";
-    const url = url + "api/" + (useSQL ? "sql" : "json");
+    const url = baseURL + "api/" + (useSQL ? "sql" : "json");
 
     return (
         <main className={inter.className}>
