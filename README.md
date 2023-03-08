@@ -4,7 +4,7 @@
 
 ### Cloud deployment
 
-If you don't feel like running it locally, I deployed it to Vercel and ElephantSQL :) Take a look at http://demx.vercel.app/ or just the api route at http://demx.vercel.app/api/json
+If you don't feel like running it locally, I deployed it to Vercel and ElephantSQL :) Take a look at http://demx.vercel.app/ or just the api routes at http://demx.vercel.app/api/json and http://demx.vercel.app/api/sql
 
 ### Running locally with `make`
 
