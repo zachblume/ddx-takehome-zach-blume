@@ -16,7 +16,11 @@ export default function Home({ searchParams }) {
 
     // Grab which api we are using from the page query, using Next 13 apprdir format:
     const useSQL = searchParams?.use === "sql";
-    const url = "http://localhost:3000/api/" + (useSQL ? "sql" : "json");
+    const baseURL =
+        process.env.NEXT_PUBLIC_VERCEL_URL == "http://localhost:3000/"
+            ? "http://localhost:3000/"
+            : "https://demx.vercel.app/";
+    const url = baseURL + (useSQL ? "sql" : "json");
 
     return (
         <main className={inter.className}>
