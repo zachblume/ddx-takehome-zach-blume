@@ -6,10 +6,14 @@ import { PrismaClient } from "@prisma/client";
 const prisma = new PrismaClient();
 
 import { useRouter } from "next/navigation";
-
 import Link from "next/link";
 
+import { headers } from "next/headers";
+
 export default function Home({ searchParams }) {
+    // Force next to dynamically render
+    const headersList = headers();
+
     // Grab which api we are using from the page query, using Next 13 apprdir format:
     const useSQL = searchParams?.use === "sql";
     const url = "http://localhost:3000/api/" + (useSQL ? "sql" : "json");
