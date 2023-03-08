@@ -26,7 +26,8 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
-.env*.local
+# Actually for this project we want them to be committed :)
+# .env*.local
 
 # vercel
 .vercel
