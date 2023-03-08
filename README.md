@@ -46,6 +46,20 @@ and try:
 select * from "ElectionResults";
 ```
 
+#### What are the most relevant files?
+
+```
+/src/app/api/json/route.js
+/src/app/api/sql/route.js
+/src/lib/unNest.js
+/public/example.json - Colorado 2020 pres primary results
+
+/src/app/page.json - Homepage/frontend, built with Tailwind UI
+
+Makefile
+docker-compose.yml
+```
+
 ### Part 2: Single SQL statement solution
 
 This solution uses a CTE for clarity, pulling out the maximum vote count for each State-County-Party group. That's enough to identify the winner (or winners! if there is a tie).
