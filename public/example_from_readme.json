@@ -1,0 +1,17 @@
+[
+    {
+        "Pennsylvania": {
+            "Chester": {
+                "Democrats": {
+                    "Humphrey": 10000,
+                    "McGovern": 5000
+                },
+                "Republicans": {
+                    "Nixon": 20000,
+                    "Ashbrook": 200,
+                    "McCloskey": 100
+                }
+            }
+        }
+    }
+]
